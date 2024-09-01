@@ -12,11 +12,11 @@ I'm a 20 y/o Cybersecurity Researcher and a CTF player
 
 ## Programming Languages I know:
 
-* Java
-* Bash
+* C++
 * Python
-* Golang
-* C
+* Html
+* Css
+* Javascript 
 
 ## Certifications 
 
