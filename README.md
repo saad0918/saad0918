@@ -37,10 +37,6 @@ I'm a 20 y/o Cybersecurity Researcher and a CTF player
 * Advent-of-Cyber-2021 from TryHackMe
 * Advent-of-Cyber-2020 from TryHackMe
 
-## Published Stuff!
-
-* [Wreath Network Report](https://drive.google.com/file/d/17_V8oOHD1WEFaSlDdO0M6rbQHQ0T84n7/view)
-
 ## Connect with me
 
 [![Twitter](assets/twitter-logo.png)][Twitter]
