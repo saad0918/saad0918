@@ -19,7 +19,8 @@ I'm a 20 y/o Full Stack Web Developer and a Software Developer
 ## Certifications 
 
 * Front End Development
-* Python Fundamentals For Beginners 
+* Python Fundamentals For Beginners
+* Generative AI 
 
 ## Connect with me
 
