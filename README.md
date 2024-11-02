@@ -14,7 +14,8 @@ I'm a 20 y/o Full Stack Web Developer and a Software Developer
 * C++
 * Python
 * Html
-* Javascript 
+* Javascript
+* MongoDb
 
 ## Certifications 
 
