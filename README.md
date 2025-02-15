@@ -21,7 +21,8 @@ I'm a 20 y/o Full Stack Web Developer and a Software Developer
 
 * Front End Development
 * Python Fundamentals For Beginners
-* Generative AI 
+* Generative AI
+* Data visualisation 
 
 ## Connect with me
 
