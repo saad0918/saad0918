@@ -15,7 +15,6 @@ I'm a 20 y/o Full Stack Web Developer and a Software Developer
 * Bootstrap
 * Javascript
 * Reactjs
-* Springboot
 * MongoDb
 * C++
 * Python
