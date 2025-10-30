@@ -38,15 +38,10 @@ I'm a 21 y/o Full Stack Web Developer and a Software Developer
   
 ---
 
----
-
 <p align="center"> 
-  <b>Visitor Count</b> 👇 <br>
-  <img src="https://komarev.com/ghpvc/?username=saad0918&label=Visitors&color=13D3CB&style=for-the-badge" alt="visitor badge"/>
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/saad0918/count.svg" />
 </p>
 
 ---
-
-
----
-[Linkedin]: https://www.linkedin.com/in/md-saad-ali-83871428b/
+[Linkedin]: https://www.linkedin.com/in/md-saad-ali-83871428b/ 
