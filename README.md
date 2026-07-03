@@ -8,7 +8,7 @@ Passionate Full Stack Developer focused on building scalable web applications an
 
 ## 👨‍💻 About Me
 
-* 🎓 Aspiring Full Stack Developer
+* 🎓 Full Stack Developer
 * 🚀 Building projects using the MERN Stack
 * 💡 Interested in Web Development, Software Engineering, and AI-powered Applications
 * 🧩 Practicing Data Structures & Algorithms for technical interviews
@@ -101,17 +101,31 @@ Passionate Full Stack Developer focused on building scalable web applications an
 
 A full-stack travel booking platform that allows users to browse destinations, manage bookings, manage reservations, and experience a responsive and user-friendly interface.
 
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB
+
+---
+
 ### ESG Monitoring System
 
 A web-based monitoring platform designed to track and visualize ESG (Environmental, Social, and Governance) metrics through an interactive dashboard and real-time data insights.
+
+**Tech Stack:** JavaScript, React.js, Node.js, MongoDB, Machine-learning
+
+---
 
 ### Smart AC Monitoring System
 
 An IoT-powered monitoring system that tracks temperature and humidity in real time, provides alerts, stores sensor data, and visualizes analytics through a modern web dashboard.
 
+**Tech Stack:** IoT, React.js, Node.js, Express.js, MongoDB
+
+---
+
 ### 3D Portfolio Website
 
 An interactive portfolio built with modern web technologies featuring smooth animations, responsive design, and immersive 3D user experiences.
+
+**Tech Stack:** React.js, JavaScript
 
 ---
 
