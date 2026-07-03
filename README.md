@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=13D3CB&size=22&vCenter=true&multiline=true&width=397&height=49&lines=Hey+there+%F0%9F%91%8B!+I'm+Saad)](https://git.io/typing-svg)
 
-# Hi 👋, I'm Saad Ali
-
 ### Full Stack Developer | MERN Stack Developer | Problem Solver 🚀
 
 Passionate Full Stack Developer focused on building scalable web applications and continuously improving problem-solving skills. I enjoy turning ideas into real-world projects and learning modern technologies that create impactful user experiences.
@@ -99,10 +97,21 @@ Passionate Full Stack Developer focused on building scalable web applications an
 
 ## 🚀 Featured Projects
 
-* Smart AC Monitoring System (IoT + MERN)
-* Full Stack Web Applications
-* React.js Projects
-* AI-Powered Web Solutions
+### Trip Booking Web Application
+
+A full-stack travel booking platform that allows users to browse destinations, manage bookings, manage reservations, and experience a responsive and user-friendly interface.
+
+### ESG Monitoring System
+
+A web-based monitoring platform designed to track and visualize ESG (Environmental, Social, and Governance) metrics through an interactive dashboard and real-time data insights.
+
+### Smart AC Monitoring System
+
+An IoT-powered monitoring system that tracks temperature and humidity in real time, provides alerts, stores sensor data, and visualizes analytics through a modern web dashboard.
+
+### 3D Portfolio Website
+
+An interactive portfolio built with modern web technologies featuring smooth animations, responsive design, and immersive 3D user experiences.
 
 ---
 
