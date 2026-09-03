@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Saad Ali
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=13D3CB&size=22&vCenter=true&multiline=true&width=397&height=49&lines=Hey+there+%F0%9F%91%8B!+I'm+Saad)](https://git.io/typing-svg)
 
 ### 🚀 Full Stack Developer | MERN Stack | Problem Solver
 
