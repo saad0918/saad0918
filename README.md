@@ -132,6 +132,7 @@ An interactive personal portfolio website featuring modern UI, responsive design
 
 **Tech Stack:** React.js, JavaScript
 
+🌐 **Live Demo:** [3D Portfolio](https://3d-portfolio-gold-one.vercel.app/)
 🔗 **GitHub:** [3D Portfolio Repository](https://github.com/saad0918)
 
 ---
@@ -162,10 +163,6 @@ Currently strengthening my problem-solving skills through **Data Structures & Al
 * Hashing
 * Recursion
 * Linked Lists
-* Stacks & Queues
-* Trees
-* Graphs
-* Dynamic Programming
 
 **Primary Language:** C++
 
@@ -187,9 +184,9 @@ Currently strengthening my problem-solving skills through **Data Structures & Al
 * 🔗 Working with REST APIs and backend services
 * 🗄️ Strengthening DBMS and SQL
 * 🧩 Improving DSA & problem-solving skills
-* 🤖 Exploring AI-powered applications
+* 🤖 Learning AI and Machine Learning
+* 🧠 Exploring AI-powered applications
 * 💻 Learning software engineering best practices
-
 ---
 
 ## 📊 GitHub Stats
