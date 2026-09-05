@@ -132,7 +132,7 @@ An interactive personal portfolio website featuring modern UI, responsive design
 
 **Tech Stack:** React.js, JavaScript
 
-🌐 **Live Demo:** [3D Portfolio](https://3d-portfolio-gold-one.vercel.app/)
+🌐 **Live Demo:** [3D Portfolio](https://saad-portfolio-site.vercel.app/)
 🔗 **GitHub:** [3D Portfolio Repository](https://github.com/saad0918)
 
 ---
