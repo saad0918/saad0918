@@ -1,22 +1,50 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=13D3CB&size=22&vCenter=true&multiline=true&width=397&height=49&lines=Hey+there+%F0%9F%91%8B!+I'm+Saad)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=13D3CB\&size=22\&vCenter=true\&multiline=true\&width=500\&height=49\&lines=Hey+there+%F0%9F%91%8B!+I'm+Saad)](https://git.io/typing-svg)
 
-### 🚀 Full Stack Developer | MERN Stack | Problem Solver
+### 🤖 AI/ML Engineer in Progress | Full-Stack Developer | Software Engineer
 
-I'm a **Full Stack Developer** passionate about building responsive, scalable, and user-focused web applications.
+I'm a **Computer Science and Engineering graduate** with a strong foundation in **Full-Stack Development** and a growing focus on **Artificial Intelligence, Machine Learning, Generative AI, and LLMs**.
 
-I enjoy turning ideas into real-world applications using modern web technologies and continuously improving my **problem-solving, backend, database, and software development skills**.
+I enjoy building real-world applications, integrating AI into software products, and solving problems using modern technologies. My development experience includes the **MERN stack**, while I'm currently expanding my expertise in **Python, Machine Learning, Generative AI, and LLM-based applications**.
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎓 Full Stack Developer
+* 🎓 Computer Science & Engineering Graduate
+* 🤖 Focused on **AI/ML, Generative AI & LLMs**
+* 🧠 Learning and applying **Machine Learning concepts**
+* 🐍 Using **Python** for AI/ML development
 * 🚀 Building applications with the **MERN Stack**
-* ⚛️ Interested in **React.js, Node.js, REST APIs, and Backend Development**
-* 🧩 Practicing **Data Structures & Algorithms** for technical interviews
-* 🤖 Exploring **AI-powered applications and Machine Learning**
-* 🗄️ Strengthening **DBMS, OOP, Operating Systems, and Computer Networks**
+* ⚛️ Experienced with **React.js, Node.js & REST APIs**
+* 🧩 Practicing **Data Structures & Algorithms**
+* 🗄️ Strengthening **DBMS, SQL, OOP, Operating Systems & Computer Networks**
 * 🌱 Continuously learning and building real-world projects
+
+---
+
+## 🤖 AI / Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
+  <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLMs-5A5A5A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+### 🧠 Currently Learning
+
+* Machine Learning fundamentals
+* Supervised & Unsupervised Learning
+* Regression & Classification
+* Model Evaluation
+* Feature Engineering
+* Generative AI
+* Large Language Models (LLMs)
+* Prompt Engineering
+* AI-powered application development
+* LLM API integration
 
 ---
 
@@ -27,10 +55,10 @@ I enjoy turning ideas into real-world applications using modern web technologies
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
 ### ⚙️ Backend
@@ -38,6 +66,7 @@ I enjoy turning ideas into real-world applications using modern web technologies
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
 </p>
 
@@ -51,9 +80,9 @@ I enjoy turning ideas into real-world applications using modern web technologies
 ### 💻 Programming Languages
 
 <p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ### 🔧 Tools & Platforms
@@ -69,37 +98,39 @@ I enjoy turning ideas into real-world applications using modern web technologies
 
 ## 🚀 Featured Projects
 
-### ✈️ Trip Booking Web Application
+### ✈️ AI-Powered Travel Booking Platform
 
-A full-stack travel booking platform that allows users to explore destinations, manage bookings and reservations, and interact with a responsive user interface.
+A full-stack travel platform with an **AI-powered chatbot** that helps users interact with a travel assistant and explore travel-related information.
 
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, OpenAI API
 
 **Key Features:**
 
-* 🌍 Destination browsing
-* 🏨 Booking and reservation management
-* 💬 AI-powered chatbot integration
+* 🤖 AI-powered travel chatbot
+* 🌍 Travel and destination interface
+* 💬 AI API integration
 * 📩 Contact form with email integration
-* 🗄️ MongoDB-based data storage
-* 🔗 REST API integration
+* 🗄️ MongoDB data storage
+* 🔗 REST API architecture
+* 🔐 Backend-based API key management
 
-🔗 **GitHub:** [Trip Booking Repository](https://github.com/saad0918)
+🔗 **GitHub:** [Travel Booking Repository](https://github.com/saad0918)
 
 ---
 
-### 📊 ESG Monitoring System
+### 📊 ESG Monitoring & Prediction System
 
-A web-based ESG monitoring platform designed to track and visualize environmental metrics through an interactive dashboard and machine-learning-based predictions.
+A web-based ESG monitoring platform that combines an interactive dashboard with a **Machine Learning model** to predict ESG scores from environmental metrics.
 
-**Tech Stack:** React.js, Node.js, MongoDB, Python, FastAPI, Machine Learning
+**Tech Stack:** React.js, Python, FastAPI, Machine Learning, MongoDB
 
 **Key Features:**
 
 * 📈 Interactive ESG dashboard
 * 🌱 Environmental metric monitoring
 * 🤖 Machine-learning-based ESG prediction
-* ⚡ FastAPI ML service
+* 🧠 Linear Regression model
+* ⚡ FastAPI ML prediction service
 * 🗄️ MongoDB data management
 
 🔗 **GitHub:** [ESG Monitoring Repository](https://github.com/saad0918)
@@ -108,7 +139,7 @@ A web-based ESG monitoring platform designed to track and visualize environmenta
 
 ### 🌡️ Smart AC Monitoring System
 
-An IoT-based monitoring system that collects real-time environmental data from sensors and visualizes the information through a web dashboard.
+An IoT-based monitoring platform that collects environmental data from sensors and sends it to a backend service for visualization and analysis.
 
 **Tech Stack:** ESP32, IoT, React.js, Node.js, Express.js, MongoDB
 
@@ -119,8 +150,8 @@ An IoT-based monitoring system that collects real-time environmental data from s
 * 🌫️ Air-quality monitoring
 * 🚶 Motion detection
 * 🚨 Alert system
-* 📊 Web-based analytics dashboard
-* 🔗 Sensor-to-server data communication
+* 📊 Analytics dashboard
+* 🔗 Sensor-to-server communication
 
 🔗 **GitHub:** [Smart AC Monitoring Repository](https://github.com/saad0918)
 
@@ -128,33 +159,37 @@ An IoT-based monitoring system that collects real-time environmental data from s
 
 ### 🌐 3D Portfolio Website
 
-An interactive personal portfolio website featuring modern UI, responsive design, animations, and immersive 3D elements.
+An interactive personal portfolio featuring modern UI, responsive design, animations, and immersive 3D elements.
 
 **Tech Stack:** React.js, JavaScript
 
 🌐 **Live Demo:** [3D Portfolio](https://saad-portfolio-site.vercel.app/)
+
 🔗 **GitHub:** [3D Portfolio Repository](https://github.com/saad0918)
 
 ---
 
 ### 🌦️ Weather Application
 
-A responsive weather application that fetches real-time weather information using an external weather API and displays current weather conditions and highlights.
+A responsive weather application that retrieves real-time weather information through an external API.
 
 **Tech Stack:** React.js, JavaScript, Tailwind CSS, REST API
 
-**Key Concepts:** `useState` · `useEffect` · Fetch API · API Error Handling · Component-Based Architecture
+**Key Concepts:**
 
-🌐 Live Demo: [Weather App](https://weather-app-nine-pink-42.vercel.app/)
+`useState` · `useEffect` · Fetch API · API Error Handling · Component-Based Architecture
+
+🌐 **Live Demo:** [Weather App](https://weather-app-nine-pink-42.vercel.app/)
+
 🔗 **GitHub:** [Weather App Repository](https://github.com/saad0918)
 
 ---
 
-## 🧩 Problem Solving
+## 🧩 Data Structures & Algorithms
 
-Currently strengthening my problem-solving skills through **Data Structures & Algorithms**.
+Currently strengthening my problem-solving and algorithmic thinking skills.
 
-### Topics I'm Practicing
+### Topics
 
 * Arrays
 * Strings
@@ -164,6 +199,8 @@ Currently strengthening my problem-solving skills through **Data Structures & Al
 * Hashing
 * Recursion
 * Linked Lists
+* Stack & Queue
+* Basic Algorithmic Problem Solving
 
 **Primary Language:** C++
 
@@ -180,14 +217,25 @@ Currently strengthening my problem-solving skills through **Data Structures & Al
 
 ## 📈 Current Focus
 
-* 🚀 Building scalable Full Stack applications
-* ⚛️ Deepening React.js and Node.js expertise
-* 🔗 Working with REST APIs and backend services
-* 🗄️ Strengthening DBMS and SQL
-* 🧩 Improving DSA & problem-solving skills
-* 🤖 Learning AI and Machine Learning
-* 🧠 Exploring AI-powered applications
-* 💻 Learning software engineering best practices
+### 🤖 AI / ML
+
+* Machine Learning fundamentals
+* Generative AI
+* Large Language Models
+* AI-powered applications
+* Python for AI/ML
+* Model training and evaluation
+
+### 💻 Software Engineering
+
+* Full-Stack Development
+* React.js & Node.js
+* REST APIs
+* Database Design
+* SQL & MongoDB
+* Data Structures & Algorithms
+* Software Engineering best practices
+
 ---
 
 ## 📊 GitHub Stats
@@ -216,9 +264,11 @@ Currently strengthening my problem-solving skills through **Data Structures & Al
   <a href="https://www.linkedin.com/in/md-saad-ali-83871428b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="mailto:saadali7782@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
   <a href="https://github.com/saad0918" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -227,5 +277,5 @@ Currently strengthening my problem-solving skills through **Data Structures & Al
 ---
 
 <p align="center">
-  <b>💻 Code. Learn. Build. Repeat. 🚀</b>
+  <b>🤖 Learn. Build. Solve. Innovate. 🚀</b>
 </p>
