@@ -137,23 +137,26 @@ A web-based ESG monitoring platform that combines an interactive dashboard with 
 
 ---
 
-### 🌡️ Smart AC Monitoring System
+### 🤖 Blog AI — AI-Powered Blogging Platform
 
-An IoT-based monitoring platform that collects environmental data from sensors and sends it to a backend service for visualization and analysis.
+A full-stack AI-powered blogging platform where users can create, publish, discover, bookmark, and interact with blog articles with AI-assisted content creation.
 
-**Tech Stack:** ESP32, IoT, React.js, Node.js, Express.js, MongoDB
+**Tech Stack:** React 19, Node.js, Express.js, MongoDB, FastAPI, Python, Gemini AI, Vite
 
 **Key Features:**
 
-* 🌡️ Real-time temperature monitoring
-* 💧 Humidity monitoring
-* 🌫️ Air-quality monitoring
-* 🚶 Motion detection
-* 🚨 Alert system
-* 📊 Analytics dashboard
-* 🔗 Sensor-to-server communication
+* 🔐 User authentication & management
+* ✍️ AI-assisted content creation
+* 📝 Create and publish blogs
+* 🔍 Discover and interact with articles
+* 🔖 Bookmark blogs
+* 🤖 Gemini AI integration
+* 🔗 REST API integration
+* ⚡ FastAPI Python service
+* 📱 Responsive UI
 
-🔗 **GitHub:** [Smart AC Monitoring Repository](https://github.com/saad0918)
+🔗 **GitHub:** [Blog AI Repository](https://github.com/saad0918/Blog-AI)
+
 
 ---
 
