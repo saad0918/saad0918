@@ -124,6 +124,41 @@ Currently focused on building practical expertise in **LLMs, Prompt Engineering,
 
 # 🚀 Featured Projects
 
+## 🤖 DocuMind AI — Agentic Document Research System
+
+An agentic RAG-based document research system that allows users to **upload PDF documents and ask questions** about their content. The system combines document retrieval, vector search, tool calling, and LLM-based reasoning to provide evidence-grounded answers with page-level sources.
+
+**Tech Stack:** Python, FastAPI, Streamlit, LangChain, FAISS, Gemini
+
+### Key Features
+
+* 📄 PDF document upload & processing
+* ✂️ Document chunking using LangChain
+* 🧠 Gemini-powered embeddings
+* 🔎 FAISS vector similarity search
+* 🤖 Agentic decision workflow
+* 🛠️ LangChain retrieval tool
+* 💬 Gemini-powered question answering
+* 📑 Page-level source references
+* ⚡ FastAPI backend
+* 🖥️ Streamlit frontend
+* 🚀 Deployed application
+
+### Architecture
+
+`PDF → PyPDFLoader → Chunking → Gemini Embeddings → FAISS`
+
+`User Question → Agent → RETRIEVE / DIRECT`
+
+`RETRIEVE → LangChain Tool → FAISS → Relevant Chunks → Gemini → Answer + Sources`
+
+### Live Demo
+
+🌐 **Live Demo:** [DocuMind AI](https://documind-ai-agent.streamlit.app/)
+
+🔗 **GitHub:** [DocuMind AI Repository](https://github.com/saad0918/document-research-agent)
+
+
 ## 🤖 Blog AI — AI-Powered Blogging Platform
 
 A full-stack AI-powered blogging platform where users can **create, publish, discover, bookmark, and interact with blog articles**, with AI-assisted content generation.
