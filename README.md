@@ -1,177 +1,368 @@
-<!-- =========================
-     PORTFOLIO FIRST
-========================= -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=13D3CB\&size=22\&vCenter=true\&multiline=true\&width=550\&height=49\&lines=Hey+there+%F0%9F%91%8B!+I'm+Saad)](https://git.io/typing-svg)
 
-<div align="center">
+# 👨‍💻 Md Saad Ali
 
-👨‍💻 Md Saad Ali
-Software Developer | AI Engineer | Full-Stack Developer
+### 🤖 AI/ML Engineer | Full-Stack Developer | Software Engineer
 
+I'm a **Computer Science and Engineering graduate** with a strong foundation in **Full-Stack Development** and a growing specialization in **Artificial Intelligence, Machine Learning, Generative AI, and LLM-based applications**.
 
+I enjoy building real-world applications by combining **software engineering with AI**, working across the full development stack — from **React.js frontends and Node.js backends to Python/FastAPI AI services and databases**.
 
-</div>
+Currently focused on building practical expertise in **LLMs, Prompt Engineering, RAG, Machine Learning, and AI-powered applications**.
 
-I'm a Computer Science and Engineering graduate with hands-on experience building full-stack web applications and AI-powered software. I work with the MERN stack for web development and use Python, FastAPI, LangChain, FAISS, and LLM APIs to build document-research systems, AI integrations, and automation workflows. I enjoy combining software engineering and AI to create practical, user-focused products.
-🌐 Portfolio
-Explore my projects, skills, and work: saad-portfolio-site.vercel.app
-👋 About Me
-- 🎓 Computer Science and Engineering graduate from CMR University
-- 💻 Full-stack development with React.js, Node.js, Express.js, and MongoDB
-- 🤖 AI application development with Python, FastAPI, LangChain, FAISS, and LLM APIs
-- 🔎 Building with Retrieval-Augmented Generation (RAG), embeddings, vector search, and tool calling
-- 🔌 Integrating REST APIs and external AI services into applications
-- 🧪 API testing and debugging with Postman and browser developer tools
-- 🛠️ Using Git and GitHub for version control and project collaboration
-- 📚 Strengthening C++ problem-solving, DSA, OOP, DBMS, and SQL
-🧠 Skills
-Programming Languages
+---
+
+## 👨‍💻 About Me
+
+* 🎓 Computer Science & Engineering Graduate
+* 🤖 Focused on **AI/ML, Generative AI & LLM Applications**
+* 🧠 Understanding **LLM Fundamentals, Transformers, Tokens & Embeddings**
+* 🔎 Learning and implementing **Retrieval-Augmented Generation (RAG)**
+* ✨ Practicing **Prompt Engineering**
+* 🐍 Using **Python for AI/ML development**
+* ⚛️ Building full-stack applications using the **MERN Stack**
+* 🚀 Working with **React.js, Node.js, Express.js & REST APIs**
+* ⚡ Building AI services using **FastAPI**
+* 🗄️ Working with **MongoDB & SQL**
+* 🧩 Practicing **Data Structures & Algorithms**
+* 💡 Interested in building practical **AI-powered software products**
+
+---
+
+# 🤖 AI / Machine Learning
+
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
+  <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLMs-5A5A5A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-6A1B9A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-00897B?style=for-the-badge" />
 </p>
 
-Full-Stack Development
+### 🧠 AI / ML Skills
+
+* Machine Learning Fundamentals
+* Supervised & Unsupervised Learning
+* Regression & Classification
+* Linear Regression
+* Model Evaluation
+* Feature Engineering
+* Python for AI/ML
+* Generative AI
+* Large Language Models (LLMs)
+* LLM Fundamentals
+* Tokenization & Tokens
+* Transformers
+* Embeddings
+* Prompt Engineering
+* Retrieval-Augmented Generation (RAG)
+* Retrieval & Vector Search Concepts
+* AI API Integration
+* AI-powered Application Development
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Frontend
+
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-AI Engineering & Machine Learning
+### ⚙️ Backend & APIs
+
 <p>
-  <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLMs-5A5A5A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-6A1B9A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/FAISS-1877F2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-00897B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
 </p>
 
-- LLM APIs and AI application integration
-- Prompt engineering, tokens, transformers, and embeddings
-- RAG pipelines, document chunking, retrieval, and vector similarity search
-- LangChain tools and tool-calling workflows
-- Machine learning fundamentals, regression, classification, and model evaluation
-Databases, APIs & Developer Tools
+### 🗄️ Databases
+
 <p>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-- REST API development and integration
-- HTTP/HTTPS, JSON, request/response handling, and error handling
-- MongoDB and SQL fundamentals
-- API testing with Postman; debugging with Chrome DevTools
-- Git/GitHub version control and deployment workflows
-🚀 Featured Projects
-🌐 3D Portfolio Website
-An interactive personal portfolio featuring responsive design, modern UI, animations, and 3D elements.
+### 🧠 AI / Data Technologies
 
-Tech: React.js, JavaScript
-Live: Open Portfolio
-🤖 QuickDrop Rider Payout Dispute Desk
-An AI-assisted payout-dispute workflow designed to help process rider payout issues with deterministic business rules, claim submission, and operational approval paths.
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLMs-5A5A5A?style=for-the-badge" />
+</p>
 
-Tech: Python, FastAPI, PostgreSQL, Docker Compose, LLM API, pytest, GitHub Actions
+### 💻 Programming Languages
 
-Highlights
-- Groups duplicate disputes idempotently using rider and finding identifiers
-- Applies rule-based auto-payment decisions for eligible claims
-- Routes larger or repeat claims for operations approval
-- Integrates with a payment sandbox and records trace events
-- Includes automated tests and CI workflow
-GitHub: QuickDrop project
-📄 DocuMind AI — Document Research Assistant
-A document question-answering application that uses a RAG pipeline to retrieve relevant passages from uploaded PDFs and generate answers grounded in document content.
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</p>
 
-Tech: Python, FastAPI, Streamlit, LangChain, FAISS, Gemini
+### 🔧 Tools & Platforms
 
-Highlights
-- PDF upload and text extraction
-- Document chunking and embedding generation
-- FAISS vector similarity search
-- Retrieval tool and LLM-based question answering
-- Source references to support answers
-Live: DocuMind AI
-GitHub: Document Research Agent
-✍️ Blog AI — AI-Powered Blogging Platform
-A full-stack blogging platform that supports blog creation and discovery with AI-assisted content generation.
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
-Tech: React, Node.js, Express.js, MongoDB, Gemini API
+---
 
-Highlights
-- AI-assisted blog content generation
-- Create and publish posts
-- Bookmark and comment interactions
-- REST API and database integration
-- Responsive user interface
-GitHub: Blog AI
-✈️ AI-Powered Travel Booking Platform
-A travel platform with an AI chatbot, contact form, and backend integrations.
+# 🚀 Featured Projects
 
-Tech: React.js, Node.js, Express.js, MongoDB, OpenAI API
+---
 
-Highlights
-- Chatbot integration through a backend API route
-- Backend-managed AI API requests
-- MongoDB persistence for chat/contact data
-- Email integration for contact submissions
-GitHub: GitHub profile / project repositories
-📊 ESG Monitoring & Prediction System
-A dashboard that presents environmental metrics and connects to a machine-learning service for ESG score predictions.
+## 🌐 3D Portfolio Website
 
-Tech: React.js, Python, FastAPI, scikit-learn, MongoDB
+An interactive personal portfolio featuring modern UI, responsive design, animations, and immersive 3D elements.
 
-Highlights
-- Environmental metrics dashboard
-- Linear Regression prediction service
-- API-based frontend-to-model integration
-- Data visualization
-🌡️ Smart AC Monitoring System
-An IoT monitoring project that gathers sensor readings and displays environmental information in a web dashboard.
+**Tech Stack:** React.js, JavaScript
 
-Tech: React.js, Node.js, Express.js, MongoDB, ESP32, IoT sensors
+🌐 **Live Demo:** [3D Portfolio](https://saad-portfolio-site.vercel.app/)
 
-Highlights
-- Temperature, humidity, and air-quality monitoring
-- Motion detection and sensor readings
-- Dashboard visualization and alerts
-- ESP32-to-backend communication
-🌦️ Weather Application
-A responsive weather app that retrieves current weather information from an external API.
+---
 
-Tech: React.js, JavaScript, Tailwind CSS, REST API
+## 🤖 DocuMind AI — Agentic Document Research System
 
-Concepts: React hooks, Fetch API, component-based UI, and API error handling
+An agentic RAG-based document research system that allows users to **upload PDF documents and ask questions** about their content. The system combines document retrieval, vector search, tool calling, and LLM-based reasoning to provide evidence-grounded answers with page-level sources.
 
-Live: Weather App
-📚 Core Computer Science & Problem Solving
-- Object-Oriented Programming (OOP)
-- DBMS and SQL fundamentals
-- HTTP/HTTPS and REST APIs
-- Authentication and authorization concepts
-- Data Structures & Algorithms with C++
-- Arrays, strings, searching, sorting, hashing, recursion, linked lists, stacks, and queues
-🏆 Certifications
-- Front End Development
-- Python Fundamentals for Beginners
-- Generative AI
-- Data Visualization
-📈 GitHub Activity
+**Tech Stack:** Python, FastAPI, Streamlit, LangChain, FAISS, Gemini
+
+### Key Features
+
+* 📄 PDF document upload & processing
+* ✂️ Document chunking using LangChain
+* 🧠 Gemini-powered embeddings
+* 🔎 FAISS vector similarity search
+* 🤖 Agentic decision workflow
+* 🛠️ LangChain retrieval tool
+* 💬 Gemini-powered question answering
+* 📑 Page-level source references
+* ⚡ FastAPI backend
+* 🖥️ Streamlit frontend
+* 🚀 Deployed application
+
+### Architecture
+
+`PDF → PyPDFLoader → Chunking → Gemini Embeddings → FAISS`
+
+`User Question → Agent → RETRIEVE / DIRECT`
+
+`RETRIEVE → LangChain Tool → FAISS → Relevant Chunks → Gemini → Answer + Sources`
+
+### Live Demo
+
+🌐 **Live Demo:** [DocuMind AI](https://documind-ai-agent.streamlit.app/)
+
+🔗 **GitHub:** [DocuMind AI Repository](https://github.com/saad0918/document-research-agent)
+
+
+## 🤖 Blog AI — AI-Powered Blogging Platform
+
+A full-stack AI-powered blogging platform where users can **create, publish, discover, bookmark, and interact with blog articles**, with AI-assisted content generation.
+
+**Tech Stack:** React 19, Node.js, Express.js, MongoDB, FastAPI, Python, Gemini AI, Vite
+
+### Key Features
+
+* 🔐 User authentication & management
+* ✍️ AI-assisted blog content creation
+* 📝 Create and publish blog posts
+* 🔍 Discover and interact with articles
+* 🔖 Bookmark functionality
+* 🤖 Gemini AI integration
+* ⚡ FastAPI-based AI service
+* 🔗 REST API architecture
+* 🗄️ MongoDB database
+* 📱 Responsive React UI
+
+🔗 **GitHub:** [Blog AI Repository](https://github.com/saad0918/Blog-AI)
+
+---
+
+## ✈️ AI-Powered Travel Booking Platform
+
+A full-stack travel platform featuring an **AI-powered chatbot** that allows users to interact with a travel assistant and get travel-related information.
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, OpenAI API
+
+### Key Features
+
+* 🤖 AI-powered travel chatbot
+* 🌍 Travel and destination interface
+* 💬 OpenAI API integration
+* 📩 Contact form with email integration
+* 🗄️ MongoDB data storage
+* 🔗 REST API architecture
+* 🔐 Backend-based API key management
+
+### Architecture
+
+`React.js → Node.js / Express.js → OpenAI API`
+
+`React.js → Node.js / Express.js → MongoDB`
+
+🔗 **GitHub:** [Travel Booking Repository](https://github.com/saad0918)
+
+---
+
+## 📊 ESG Monitoring & Prediction System
+
+A web-based ESG monitoring platform combining an interactive dashboard with a **Machine Learning prediction service** to predict ESG scores from environmental metrics.
+
+**Tech Stack:** React.js, Node.js, Python, FastAPI, Machine Learning, MongoDB
+
+### Key Features
+
+* 📈 Interactive ESG dashboard
+* 🌱 Environmental metric monitoring
+* 🤖 Machine-learning-based ESG prediction
+* 🧠 Linear Regression model
+* ⚡ FastAPI ML prediction service
+* 🗄️ MongoDB data management
+* 📊 Data visualization
+
+### Architecture
+
+`React.js → Node.js / Express.js → FastAPI → ML Model`
+
+`Node.js / Express.js → MongoDB`
+
+---
+
+## 🌡️ Smart AC Monitoring System
+
+An IoT-based smart AC monitoring and control system that collects environmental data from sensors and displays real-time information through a React dashboard.
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, ESP32, IoT
+
+### Key Features
+
+* 🌡️ Real-time temperature & humidity monitoring
+* 🌫️ Air-quality monitoring
+* 🚶 Motion detection
+* 📊 Live monitoring dashboard
+* 📈 Sensor history & charts
+* ❄️ AC control functionality
+* 🔔 Alerts & buzzer notifications
+* 📺 OLED display
+* ⚡ ESP32-based IoT device
+* 🔗 REST API communication
+* 🗄️ MongoDB data storage
+
+### Architecture
+
+`Sensors → ESP32 → Node.js / Express.js → MongoDB`
+
+`React Dashboard ↔ Node.js / Express.js`
+
+---
+
+## 🌦️ Weather Application
+
+A responsive weather application that retrieves real-time weather information through an external weather API.
+
+**Tech Stack:** React.js, JavaScript, Tailwind CSS, REST API
+
+### Key Concepts
+
+`useState` · `useEffect` · Fetch API · API Error Handling · Component-Based Architecture
+
+🌐 **Live Demo:** [Weather App](https://weather-app-nine-pink-42.vercel.app/)
+
+
+# 🧩 Data Structures & Algorithms
+
+Currently strengthening problem-solving and algorithmic thinking using **C++**.
+
+### Topics
+
+* Arrays
+* Strings
+* Searching & Sorting
+* Two Pointers
+* Sliding Window
+* Hashing
+* Recursion
+* Linked Lists
+* Stack & Queue
+* Basic Algorithmic Problem Solving
+
+**Primary Language:** C++
+
+---
+
+# 📚 Core Computer Science
+
+* Object-Oriented Programming (OOP)
+* DBMS
+* SQL
+* Operating Systems
+* Computer Networks
+* HTTP / HTTPS
+* REST APIs
+* Authentication & Authorization
+* JWT
+* Git & GitHub
+* Software Engineering Fundamentals
+
+---
+
+# 🏆 Certifications
+
+* 🎓 Front End Development
+* 🐍 Python Fundamentals for Beginners
+* 🤖 Generative AI
+* 📊 Data Visualization
+
+---
+
+# 🎯 Current Focus
+
+### 🤖 AI Engineering
+
+* Large Language Models
+* LLM Fundamentals
+* Prompt Engineering
+* Retrieval-Augmented Generation (RAG)
+* Embeddings & Vector Search
+* Generative AI
+* AI API Integration
+* AI-powered Applications
+* Machine Learning
+* Model Evaluation
+* Python & FastAPI
+
+### 💻 Software Engineering
+
+* Full-Stack Development
+* React.js
+* Node.js & Express.js
+* REST API Development
+* MongoDB & SQL
+* Data Structures & Algorithms
+* Backend Architecture
+* API Integration
+* Authentication & Authorization
+
+---
+
+# 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saad0918&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
@@ -180,21 +371,36 @@ Live: Weather App
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saad0918&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
+# 🏆 GitHub Trophies
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=saad0918&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
 </p>
 
-🤝 Connect With Me
+---
+
+# 🌐 Connect With Me
+
 <p align="center">
+
   <a href="https://www.linkedin.com/in/md-saad-ali-83871428b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="mailto:saadali7782@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
   <a href="https://github.com/saad0918" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
 </p>
 
-<p align="center"><b>Build. Learn. Integrate. Solve. 🚀</b></p>
+---
+
+<p align="center">
+  <b>🤖 Learn. Build. Solve. Innovate. 🚀</b>
+</p>
