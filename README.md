@@ -124,6 +124,18 @@ Currently focused on building practical expertise in **LLMs, Prompt Engineering,
 
 # 🚀 Featured Projects
 
+---
+
+## 🌐 3D Portfolio Website
+
+An interactive personal portfolio featuring modern UI, responsive design, animations, and immersive 3D elements.
+
+**Tech Stack:** React.js, JavaScript
+
+🌐 **Live Demo:** [3D Portfolio](https://saad-portfolio-site.vercel.app/)
+
+---
+
 ## 🤖 DocuMind AI — Agentic Document Research System
 
 An agentic RAG-based document research system that allows users to **upload PDF documents and ask questions** about their content. The system combines document retrieval, vector search, tool calling, and LLM-based reasoning to provide evidence-grounded answers with page-level sources.
@@ -272,17 +284,6 @@ A responsive weather application that retrieves real-time weather information th
 
 🌐 **Live Demo:** [Weather App](https://weather-app-nine-pink-42.vercel.app/)
 
----
-
-## 🌐 3D Portfolio Website
-
-An interactive personal portfolio featuring modern UI, responsive design, animations, and immersive 3D elements.
-
-**Tech Stack:** React.js, JavaScript
-
-🌐 **Live Demo:** [3D Portfolio](https://saad-portfolio-site.vercel.app/)
-
----
 
 # 🧩 Data Structures & Algorithms
 
