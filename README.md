@@ -124,15 +124,21 @@ I enjoy combining software development with AI to build practical, end-to-end ap
 # 🚀 Featured Projects
 
 ---
+## 🚚 QuickDrop Rider Payout Dispute Desk — AI-Powered Automation
 
-## 🌐 3D Portfolio Website
+An AI-powered payout dispute resolution system that detects rider payout discrepancies, validates account details, and automates eligible payouts while routing high-value or repeated disputes for operations approval.
 
-An interactive personal portfolio featuring modern UI, responsive design, animations, and immersive 3D elements.
+**Tech Stack:** Python, FastAPI, PostgreSQL, LLM APIs, Docker, Pytest, GitHub Actions
 
-**Tech Stack:** React.js, JavaScript
-
-🌐 **Live Demo:** [3D Portfolio](https://saad-portfolio-site.vercel.app/)
-
+**Key Features**
+- 🤖 LLM-powered dispute analysis
+- 🔍 Account verification and payout discrepancy checks
+- ⚙️ Automated payout processing with business rules
+- 💰 Automatic payouts within the ₹200 limit
+- 🛡️ Operations approval for high-value or repeated disputes
+- 🔄 Idempotent dispute handling
+- 📋 Event tracing and audit records
+- 🧪 Automated testing with Pytest and GitHub Actions
 ---
 
 ## 🤖 DocuMind AI — Agentic Document Research System
@@ -283,6 +289,16 @@ A responsive weather application that retrieves real-time weather information th
 
 🌐 **Live Demo:** [Weather App](https://weather-app-nine-pink-42.vercel.app/)
 
+---
+## 🌐 3D Portfolio Website
+
+An interactive personal portfolio featuring modern UI, responsive design, animations, and immersive 3D elements.
+
+**Tech Stack:** React.js, JavaScript
+
+🌐 **Live Demo:** [3D Portfolio](https://saad-portfolio-site.vercel.app/)
+
+---
 
 # 🧩 Data Structures & Algorithms
 
