@@ -46,19 +46,16 @@ I enjoy combining software development with AI to build practical, end-to-end ap
 * Supervised & Unsupervised Learning
 * Regression & Classification
 * Linear Regression
-* Model Evaluation
-* Feature Engineering
+* Model Evaluation Fundamentals
 * Python for AI/ML
-* Generative AI
-* Large Language Models (LLMs)
-* LLM Fundamentals
-* Tokenization & Tokens
-* Transformers
-* Embeddings
+* Generative AI and Large Language Models (LLMs)
+* LLM Fundamentals, Tokens, and Transformers
+* Embeddings and Vector Search
 * Prompt Engineering
 * Retrieval-Augmented Generation (RAG)
-* Retrieval & Vector Search Concepts
-* AI API Integration
+* Document Chunking and Retrieval
+* LangChain and FAISS
+* LLM API Integration
 * AI-powered Application Development
 
 ---
