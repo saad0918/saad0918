@@ -139,6 +139,8 @@ An AI-powered payout dispute resolution system that detects rider payout discrep
 - 🔄 Idempotent dispute handling
 - 📋 Event tracing and audit records
 - 🧪 Automated testing with Pytest and GitHub Actions
+  
+🔗 **GitHub:** [DocuMind AI Repository](https://github.com/saad0918/qd-payout-desk)
 ---
 
 ## 🤖 DocuMind AI — Agentic Document Research System
