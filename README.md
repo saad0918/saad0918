@@ -11,7 +11,7 @@ I build full-stack applications using the **MERN stack** and develop AI-powered 
 
 I enjoy combining software development with AI to build practical, end-to-end applications.
 
-<small>🌐 <b>Portfolio:</b> <a href="https://saad-portfolio-site.vercel.app/">Visit My Portfolio</a></small>
+<sub>🌐 <b>Portfolio:</b> <a href="https://saad-portfolio-site.vercel.app/">Visit My Portfolio</a></sub>
 ---
 
 ## 👨‍💻 About Me
