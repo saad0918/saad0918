@@ -14,18 +14,18 @@ I enjoy combining software development with AI to build practical, end-to-end ap
 
 ## 👨‍💻 About Me
 
-* 🎓 Computer Science & Engineering Graduate
-* 🤖 Focused on **AI/ML, Generative AI & LLM Applications**
-* 🧠 Understanding **LLM Fundamentals, Transformers, Tokens & Embeddings**
-* 🔎 Learning and implementing **Retrieval-Augmented Generation (RAG)**
-* ✨ Practicing **Prompt Engineering**
-* 🐍 Using **Python for AI/ML development**
-* ⚛️ Building full-stack applications using the **MERN Stack**
-* 🚀 Working with **React.js, Node.js, Express.js & REST APIs**
-* ⚡ Building AI services using **FastAPI**
-* 🗄️ Working with **MongoDB & SQL**
-* 🧩 Practicing **Data Structures & Algorithms**
-* 💡 Interested in building practical **AI-powered software products**
+* 🎓 Computer Science & Engineering graduate from CMR University
+* 💻 Building full-stack applications using the **MERN Stack**
+* ⚛️ Working with **React.js, Node.js, Express.js, and MongoDB**
+* 🐍 Developing AI applications using **Python and FastAPI**
+* 🤖 Integrating **LLM APIs and Generative AI** into applications
+* 🔎 Working with **RAG, embeddings, chunking, and vector search**
+* 🧩 Using **LangChain and FAISS** for document retrieval workflows
+* 🔌 Building and integrating **REST APIs**
+* 🧪 Testing APIs with **Postman** and debugging applications
+* 🛠️ Using **Git and GitHub** for version control
+* 📚 Strengthening **C++, DSA, OOP, DBMS, and SQL**
+* 💡 Interested in building practical software products combining **development and AI**
 
 ---
 
